@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "57e3a72a2865e39529628e09d2127c30539f8f9e1457e92b1fa7b32c05ea3c0f"
+build_start_time: [1646281798, 16767024]
+build_end_time: [1646281800, 378306865]
+inputs:
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/AFIError.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/Image.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/ImageCache.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/ImageDownloader.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/ImageFilter.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1618887543, 0]

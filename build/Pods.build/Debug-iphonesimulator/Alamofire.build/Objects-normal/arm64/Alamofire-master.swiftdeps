@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "e5ab5e9422a53ba45284d18bd4db99f7d23d5b063ef0ee7da37f5de7eaca9930"
+build_start_time: [1646281792, 773180961]
+build_end_time: [1646281797, 972074031]
+inputs:
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/AFError.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/Alamofire.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/MultipartFormData.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/Notifications.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/ParameterEncoding.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/Request.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/Response.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/ResponseSerialization.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/Result.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/SessionDelegate.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/SessionManager.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/TaskDelegate.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/Timeline.swift": [1618887543, 0]
+  "/Users/phillycheesesteak/Documents/GitHub/TwitterApp/Pods/Alamofire/Source/Validation.swift": [1618887543, 0]
